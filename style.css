@@ -1,0 +1,33 @@
+body {
+    background-image: url('https://images.pexels.com/photos/2127732/pexels-photo-2127732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+.black {
+    font-weight: 700;
+}
+
+.table {
+    background-color: #f1faee;
+    border-radius: 10px;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+.card {
+    margin: 50px 150px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.btn {
+    margin-top: 10px;
+}
